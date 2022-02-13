@@ -1,0 +1,94 @@
+.container {
+    /* font: 'waffle_light-webfont.woff'; */
+    max-width: 680px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+p.bio {
+    text-align: center;
+}
+
+hr {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+img.logo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 0px 5px rgba(0, 0, 0, 0.7);
+}
+
+h1.name {
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    font-weight: bold; 
+    text-align: center;
+    margin-top: 20px;
+}
+
+span.slogan {
+    display: block;
+    text-align: center;
+    /* text-transform: uppercase; */
+    font-size: 15px;
+    color: darkolivegreen;
+    margin-bottom: 35px;
+}
+
+.social ul {
+    margin: 0;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/*.social ul li {  
+    display: inline; 
+    padding: 8px;
+    padding-top: 30px;
+    background: rgba(204, 204, 204, 0.5);
+    border-radius: 20%;
+    cursor: pointer;
+    transition: background 150ms ease-in-out;
+
+}
+
+.social ul li:hover {
+    background: bisque;
+
+}*/
+
+.social ul li {
+    display: inline; 
+    padding: 5px;
+}
+
+h2 {
+    text-align: left;
+    font-size: 1.1rem;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+
+.work {
+    margin-bottom: 25px;
+    margin-right: 0px;
+}
+
+.footer {
+    text-align: left;
+    padding: 10px 0;
+    color: rgba(51, 51, 51, 0.5);
+}
+
+
+
